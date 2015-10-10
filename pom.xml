@@ -13,6 +13,13 @@
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <connection>scm:git:git://github.com/rojoangel/lein-kata-template.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/rojoangel/lein-kata-template.git</developerConnection>
+    <tag>9efcc803c09f5da542e161c0b6288cfc07cbcd9b
+</tag>
+    <url>https://github.com/rojoangel/lein-kata-template</url>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
