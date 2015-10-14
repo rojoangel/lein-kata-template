@@ -4,6 +4,7 @@ A Leiningen template for Clojure katas.
 It creates the bare minimum artifacts needed for a clojure kata.
 
 Latest version:
+
 [![Clojars Project](http://clojars.org/kata/lein-template/latest-version.svg)](http://clojars.org/kata/lein-template)
 
 # How to install it
