@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/rojoangel/lein-kata-template.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/rojoangel/lein-kata-template.git</developerConnection>
-    <tag>8a66ac1470722214929a104b7edfe94a771de129
+    <tag>d9072767f687184576811ccf88bec4d13bc77a08
 </tag>
     <url>https://github.com/rojoangel/lein-kata-template</url>
   </scm>
