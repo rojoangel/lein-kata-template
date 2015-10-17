@@ -3,7 +3,7 @@
   <groupId>kata</groupId>
   <artifactId>lein-template</artifactId>
   <packaging>jar</packaging>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <name>lein-template</name>
   <description>A simple lein template for clojure katas</description>
   <url>https://github.com/rojoangel/lein-kata-template</url>
@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/rojoangel/lein-kata-template.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/rojoangel/lein-kata-template.git</developerConnection>
-    <tag>9efcc803c09f5da542e161c0b6288cfc07cbcd9b
+    <tag>8a66ac1470722214929a104b7edfe94a771de129
 </tag>
     <url>https://github.com/rojoangel/lein-kata-template</url>
   </scm>
