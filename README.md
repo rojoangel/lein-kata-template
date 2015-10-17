@@ -8,10 +8,10 @@ Latest version:
 [![Clojars Project](http://clojars.org/kata/lein-template/latest-version.svg)](http://clojars.org/kata/lein-template)
 
 # How to install it
-Add a plugin dependency on [kata/lein-template "0.1.0"] to your ~/.lein/profiles.clj:
+Add a plugin dependency on [kata/lein-template "0.1.1"] to your ~/.lein/profiles.clj:
 
 ```clj
-{:user {:plugins [[kata/lein-template "0.1.0"]]}}
+{:user {:plugins [[kata/lein-template "0.1.1"]]}}
 ```
 
 # How to use it
@@ -51,3 +51,9 @@ Ran 1 tests containing 0 assertions.
 0 failures, 0 errors.
 ```
 Now you are all set to start working on your kata!
+
+From version 0.1.1 auto test is supported:
+```sh
+cd roman-numerals
+lein auto test
+``` 
